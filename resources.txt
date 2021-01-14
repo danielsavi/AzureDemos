@@ -1,0 +1,24 @@
+resources used
+
+Creating Function App
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function
+
+https://towardsdatascience.com/working-with-azure-cosmos-db-in-your-azure-functions-cc4f0f98a44d
+
+https://softchris.github.io/pages/dotnet-serverless-database.html#output-bindings
+
+Secure an HTTP endpoint in production
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-trigger?tabs=csharp
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/modeling-data
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-input?tabs=csharp
+
+https://eysermans.com/post/things-i-wish-knew-before-i-got-started-with-cosmos-db
+
+https://docs.microsoft.com/en-us/visualstudio/azure/azure-cosmosdb-add-connected-service?view=vs-2019#:~:text=Open%20your%20project%20in%20Visual,page%2C%20select%20Azure%20Cosmos%20DB.
+
+https://www.youtube.com/watch?v=AFF4kuBTtNg
+
